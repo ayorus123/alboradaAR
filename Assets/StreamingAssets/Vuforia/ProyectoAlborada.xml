@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="arania" size="6.000000 5.523553" />
+    <ImageTarget name="clavos" size="6.000000 7.518717" />
+    <ImageTarget name="guitarra" size="6.000000 6.310442" />
+    <ImageTarget name="submarino" size="6.000000 3.000000" />
+    <ImageTarget name="campana" size="6.000000 6.000000" />
+    <ImageTarget name="foco" size="6.000000 3.300761" />
     <ImageTarget name="3enUno" size="6.000000 2.513011" />
     <ImageTarget name="Frutas" size="6.000000 5.146068" />
     <ImageTarget name="gusano-seda" size="6.000000 3.152611" />

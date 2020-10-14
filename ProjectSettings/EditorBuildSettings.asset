@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/inicio-menu.unity
-    guid: 9ae50c5338bed44488e47f11cb19c8e7
+    path: Assets/Scenes/inicio-nuevo-menu.unity
+    guid: daf966bd179df4a409616e01d045e5a5
   - enabled: 1
     path: Assets/Scenes/alboradaAR.unity
     guid: ec52cf8ca30754c4ab0ebee340e36bd5
+  - enabled: 1
+    path: Assets/Scenes/juego.unity
+    guid: e1be7679f0c4b254d93d9bc8e630cfc0
   m_configObjects: {}
