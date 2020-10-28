@@ -87,7 +87,6 @@
     <Compile Include="Assets\Common\Scripts\TapHandler.cs" />
     <Compile Include="Assets\Common\Scripts\TrackableSettings.cs" />
     <Compile Include="Assets\Common\Scripts\VLog.cs" />
-    <Compile Include="Assets\PREFABS -MENU\Tatsumi 3d - Anime Style\Demo\Scripts\UIManager.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Araña\Araña\FSP_ContinuousRotation.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Niño\Scripts\Animacion.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Pescado\Scripts\IwasiMove.cs" />
@@ -139,6 +138,7 @@
     <Compile Include="Assets\SamplesResources\SceneAssets\VuMarks\Scripts\VuMarkTrackableEventHandler.cs" />
     <Compile Include="Assets\Scripts\Script-Menu\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Script-Menu\RotacionEscenario.cs" />
+    <Compile Include="Assets\Scripts\Scripts-AR\DesplegarAudio.cs" />
     <Compile Include="Assets\Scripts\Scripts-AR\ScriptAnimations\animation.cs" />
     <Compile Include="Assets\Scripts\Scripts-AR\VideoTrackeableHandlerEvent.cs" />
     <Compile Include="Assets\Scripts\Scripts-Juego\AparicionObjetosEsp.cs" />
@@ -156,15 +156,12 @@
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Readme_ja.txt" />
-    <None Include="Assets\PREFABS -MENU\Trees_WorldSpace\Shaders\BarkShaderAS.shader" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\Standard.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\PREFABS -MENU\Tatsumi 3d - Anime Style\Advance Unlit Shader\Advance Unlit.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc" />
-    <None Include="Assets\PREFABS -MENU\Trees_WorldSpace\WorldSpaceTrees_Doc.txt" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\Shaders\VRWSTess.cginc" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget360.xml" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\Double Sided.shader" />
@@ -177,7 +174,6 @@
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\ZWrite Double Sided.shader" />
     <None Include="Assets\PREFABS-ALBORADA\Llave\Key\readME keys.txt" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc" />
-    <None Include="Assets\PREFABS -MENU\Simple city plain\Read_me.txt" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
     <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Following Characters.txt" />
@@ -187,7 +183,6 @@
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\Double Sided.shader" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\Shaders\VRWSShadowCaster.cginc" />
-    <None Include="Assets\PREFABS -MENU\Trees_WorldSpace\Shaders\TreeLeafSwitcherAS.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\ZWrite Double Sided.shader" />
@@ -200,7 +195,6 @@
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\ZWrite Standard.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
-    <None Include="Assets\PREFABS -MENU\Trees_WorldSpace\Misc\Obselete_canDelete\ShaderForgeDepricated\Depricated_canDelete\SF_Dep_TreeBarkShader.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro.cginc" />
@@ -211,10 +205,8 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Sprite.shader" />
-    <None Include="Assets\PREFABS -MENU\Tatsumi 3d - Anime Style\ReadMe!.txt" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\PREFABS -MENU\Trees_WorldSpace\Misc\Obselete_canDelete\ShaderForgeDepricated\Depricated_canDelete\SF_Dep_TreeLeavesSwitcher.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -223,6 +215,12 @@
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Editor">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/ScriptAssemblies/Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="XiaomiSupport">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/ScriptAssemblies/XiaomiSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
@@ -433,6 +431,12 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="ChannelPurchase">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.26f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

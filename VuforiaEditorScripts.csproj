@@ -340,6 +340,12 @@
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
+    <Reference Include="ChannelPurchase">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>C:/Users/PC/Desktop/alboradaAR/Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.26f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
