@@ -186,10 +186,10 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\ZWrite Double Sided.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\ProyectoAlborada.xml" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Readme.txt" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\Standard.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\ProyectoAlborada.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\ZWrite Standard.shader" />
