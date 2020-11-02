@@ -97,6 +97,7 @@
     <Compile Include="Assets\PREFABS-ALBORADA\Pescado\Scripts\SardineCameraScript.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Pescado\Scripts\SardineCharacter.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Pescado\Scripts\SardineUserController.cs" />
+    <Compile Include="Assets\PREFABS-ALBORADA\Portada 2d\VirtualButton.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Astronaut.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Augmentation.cs" />
     <Compile Include="Assets\SamplesResources\AugmentationAssets\Scripts\Augmentations\Drone.cs" />
