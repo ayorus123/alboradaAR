@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/alboradaAR.unity
     guid: ec52cf8ca30754c4ab0ebee340e36bd5
   - enabled: 1
-    path: Assets/Scenes/juego.unity
-    guid: e1be7679f0c4b254d93d9bc8e630cfc0
+    path: Assets/Scenes/juego-nuevo.unity
+    guid: 7bbd9250eeda5f1489b7a7c1d2407b14
+  - enabled: 1
+    path: Assets/Scenes/Rompecabezas/ElefanteRompecabezas.unity
+    guid: e6fbd9df0be80034b92621661fff2eda
   m_configObjects: {}
