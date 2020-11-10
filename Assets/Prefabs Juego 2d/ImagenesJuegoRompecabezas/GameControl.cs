@@ -21,14 +21,13 @@ public class GameControl : MonoBehaviour
         float[] posiciones = new float[4];
         posiciones[0] = 90f;
         posiciones[1] = 270f;
-        posiciones[2] = 180f;
-        posiciones[3] = 270f;
-        pictures[0].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
-        pictures[1].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
-        pictures[2].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
-        pictures[3].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
-        pictures[4].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
-        pictures[5].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 2)]);
+        posiciones[2] = 0f;
+        pictures[0].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
+        pictures[1].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
+        pictures[2].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
+        pictures[3].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
+        pictures[4].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
+        pictures[5].Rotate(0f, 0f, posiciones[UnityEngine.Random.Range(0, 3)]);
         winText.SetActive(false);
         youWin = false;
 
