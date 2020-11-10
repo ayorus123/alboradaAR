@@ -175,7 +175,6 @@
     <None Include="Assets\PREFABS-ALBORADA\Pescado\ReadMe.txt" />
     <None Include="Assets\PREFABS-ALBORADA\Pala\readme_first.txt" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\ZWrite Double Sided.shader" />
-    <None Include="Assets\PREFABS-ALBORADA\Llave\Key\readME keys.txt" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
     <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />

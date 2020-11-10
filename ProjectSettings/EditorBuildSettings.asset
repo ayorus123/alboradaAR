@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Rompecabezas/ElefanteRompecabezas.unity
     guid: e6fbd9df0be80034b92621661fff2eda
+  - enabled: 1
+    path: Assets/Scenes/Rompecabezas/CasaRompecabezas.unity
+    guid: 88838b4efedab944eac770bf0e10964d
+  - enabled: 1
+    path: Assets/Scenes/Rompecabezas/IllimaniRompecabezas.unity
+    guid: ce98526e14aff6d4d9a220f555f60638
   m_configObjects: {}
