@@ -1,4 +1,4 @@
-/*==============================================================================
+﻿/*==============================================================================
 Copyright (c) 2019 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2010-2014 Qualcomm Connected Experiences, Inc.
@@ -15,8 +15,9 @@ using Vuforia;
 /// Changes made to this file could be overwritten when upgrading the Vuforia version.
 /// When implementing custom event handler behavior, consider inheriting from this class instead.
 /// </summary>
-public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
+public class PortadaTrackeable : MonoBehaviour, ITrackableEventHandler
 {
+    public Animator animSticker;
     #region PROTECTED_MEMBER_VARIABLES
 
     protected TrackableBehaviour mTrackableBehaviour;
@@ -54,8 +55,8 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     {
         m_PreviousStatus = previousStatus;
         m_NewStatus = newStatus;
-        
-        Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + 
+
+        Debug.Log("Trackable " + mTrackableBehaviour.TrackableName +
                   " " + mTrackableBehaviour.CurrentStatus +
                   " -- " + mTrackableBehaviour.CurrentStatusInfo);
 
@@ -103,6 +104,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
             foreach (var component in canvasComponents)
                 component.enabled = true;
         }
+        animSticker.SetTrigger("play");
     }
 
 
