@@ -20,4 +20,7 @@ public class LevelManager : MonoBehaviour
     public void cargaNivel(string nombreNivel) {
         SceneManager.LoadScene(nombreNivel);
     }
+    public void resetEscenas() {
+        PlayerPrefs.DeleteAll();
+    }
 }

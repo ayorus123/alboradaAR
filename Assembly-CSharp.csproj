@@ -87,8 +87,13 @@
     <Compile Include="Assets\Common\Scripts\TapHandler.cs" />
     <Compile Include="Assets\Common\Scripts\TrackableSettings.cs" />
     <Compile Include="Assets\Common\Scripts\VLog.cs" />
-    <Compile Include="Assets\Prefabs Juego 2d\ImagenesJuegoRompecabezas\GameControl.cs" />
-    <Compile Include="Assets\Prefabs Juego 2d\ImagenesJuegoRompecabezas\TouchRotate.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Quiz\Scripts\BackButtonScript.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Quiz\Scripts\LevelControlScript.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Quiz\Scripts\MainMenuScript.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Quiz\Scripts\TrophyRoomControlScript.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Quiz\Scripts\WinSceneScript.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Rompecabezas\ImagenesJuegoRompecabezas\GameControl.cs" />
+    <Compile Include="Assets\Prefabs Juego 2d Rompecabezas\ImagenesJuegoRompecabezas\TouchRotate.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Araña\Araña\FSP_ContinuousRotation.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Niño\Scripts\Animacion.cs" />
     <Compile Include="Assets\PREFABS-ALBORADA\Pescado\Scripts\IwasiMove.cs" />
