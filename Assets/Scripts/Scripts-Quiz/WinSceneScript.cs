@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -9,7 +10,7 @@ public class WinSceneScript : MonoBehaviour {
 	void Start () {
 
 		// Invoke GotoMainMenu method in 1 second
-		Invoke ("GotoMainMenu", 1f);
+		Invoke ("GotoMainMenu", 8f);
 	}
 
 	// Load MainMenu scene

@@ -68,8 +68,6 @@
     <Compile Include="Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs" />
-    <Compile Include="Assets\Vuforia\Scripts\PortadaTrackeable.cs" />
-    <Compile Include="Assets\Vuforia\Scripts\prueba.cs" />
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>

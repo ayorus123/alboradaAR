@@ -65,7 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Common\Editor\ConfigurePlayerSettings.cs" />
     <Compile Include="Assets\Common\Editor\OptionsConfigEditor.cs" />
-    <Compile Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\Editor\VRWS2Inspector.cs" />
+    <Compile Include="Assets\Prefabs Menu Principal\VRWaterShader2\Editor\VRWS2Inspector.cs" />
     <Compile Include="Assets\SamplesResources\SceneAssets\UserDefinedTargets\Scripts\Editor\UDTEventHandlerEditor.cs" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget360\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget\authoringinfo.xml" />
