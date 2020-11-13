@@ -29,7 +29,7 @@ public class prueba : MonoBehaviour, ITrackableEventHandler
     #endregion // PROTECTED_MEMBER_VARIABLES
 
     #region UNITY_MONOBEHAVIOUR_METHODS
-
+    
     protected virtual void Start()
     {
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();

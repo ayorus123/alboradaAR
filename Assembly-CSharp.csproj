@@ -162,6 +162,7 @@
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\Shaders\Standard.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\ModelTargetsTrained\Shaders\TimedDiffuseNoCull.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\ProyectoAlborada.xml" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Readme_ja.txt" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
@@ -196,7 +197,6 @@
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Readme.txt" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\Standard.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\ProyectoAlborada.xml" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\GLES30\ZWrite Standard.shader" />
@@ -207,7 +207,6 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
     <None Include="Assets\Prefabs Menu Nuevo\VRWaterShader2\VRWaterShader(legacy)\Shaders\ZWrite Standard.shader" />
-    <None Include="Assets\PREFABS-ALBORADA\Clavos\HQ Tools Nails\Readme.txt" />
     <None Include="Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile.shader" />
