@@ -10,11 +10,11 @@ public class WinSceneScript : MonoBehaviour {
 	void Start () {
 
 		// Invoke GotoMainMenu method in 1 second
-		Invoke ("GotoMainMenu", 8f);
+		Invoke ("IrMenu", 8f);
 	}
 
 	// Load MainMenu scene
-	void GotoMainMenu()
+	void IrMenu()
 	{
 		SceneManager.LoadScene ("juegoQuiz");
 	}

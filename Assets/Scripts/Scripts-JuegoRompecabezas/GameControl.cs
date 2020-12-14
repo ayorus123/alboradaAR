@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameControl : MonoBehaviour
 {
@@ -49,8 +50,13 @@ public class GameControl : MonoBehaviour
            
             youWin = true;
             winText.SetActive(true);
+            Invoke("IrMenu", 4f);
 
         }
         
+    }
+    void IrMenu()
+    {
+        SceneManager.LoadScene("juegoRompecabezas");
     }
 }

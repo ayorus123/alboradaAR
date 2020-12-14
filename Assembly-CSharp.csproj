@@ -137,12 +137,12 @@
     <Compile Include="Assets\SamplesResources\SceneAssets\VuMarks\Scripts\PanelShowHide.cs" />
     <Compile Include="Assets\SamplesResources\SceneAssets\VuMarks\Scripts\VuMarkHandler.cs" />
     <Compile Include="Assets\SamplesResources\SceneAssets\VuMarks\Scripts\VuMarkTrackableEventHandler.cs" />
+    <Compile Include="Assets\Scripts\CameraFocusController.cs" />
     <Compile Include="Assets\Scripts\Script-Menu\LevelManager.cs" />
-    <Compile Include="Assets\Scripts\Script-Menu\RotacionEscenario.cs" />
+    <Compile Include="Assets\Scripts\Script-Menu\SalirJuego.cs" />
     <Compile Include="Assets\Scripts\Scripts-AR\AudioTrack.cs" />
     <Compile Include="Assets\Scripts\Scripts-AR\PortadaTrackeable.cs" />
     <Compile Include="Assets\Scripts\Scripts-AR\ScriptAnimations\animation.cs" />
-    <Compile Include="Assets\Scripts\Scripts-AR\VideoTrackeableHandlerEvent.cs" />
     <Compile Include="Assets\Scripts\Scripts-JuegoRompecabezas\GameControl.cs" />
     <Compile Include="Assets\Scripts\Scripts-JuegoRompecabezas\TouchRotate.cs" />
     <Compile Include="Assets\Scripts\Scripts-Quiz\LevelControlScript.cs" />
